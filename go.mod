@@ -1,4 +1,4 @@
-module github.com/cxbooks/epub
+module github.com/nexptr/epub
 
 go 1.19
 
